@@ -1,5 +1,2 @@
-Dataset/*
-!Dataset/split_dataset.ipynb
+dataset_24/
 wandb/
-Models/vit/*
-!Models/vit/vit.ipynb
